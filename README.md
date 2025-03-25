@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello, I'm [Your Name]
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello, I'm Cemilkos
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Discord+Bot+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
