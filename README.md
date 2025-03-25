@@ -24,24 +24,6 @@ I'm a passionate developer who loves creating innovative solutions for Minecraft
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cemilkos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cemilkos&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/cemilkos/nexoria">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=cemilkos&repo=nexoria&theme=tokyonight"/>
-  </a>
-  <a href="https://github.com/cemilkos/discord-bot">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=cemilkos&repo=discord-bot&theme=tokyonight"/>
-  </a>
-</div>
-
 ## 🎮 Minecraft Development Studio
 
 I run a Minecraft development studio that offers:
