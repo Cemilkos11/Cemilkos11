@@ -35,10 +35,10 @@ I run a Minecraft development studio that offers:
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://discord.gg/YOUR_DISCORD">
+  <a href="https://discord.gg/cemilkos_">
     <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:cemilkos19@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
