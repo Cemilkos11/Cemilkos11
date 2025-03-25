@@ -35,7 +35,7 @@ I run a Minecraft development studio that offers:
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://discord.gg/cemilkos_">
+  <a href="https://discord.com/users/862265432311595028">
     <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="mailto:cemilkos19@gmail.com">
