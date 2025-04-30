@@ -8,6 +8,40 @@
 
 I'm a passionate developer who loves creating innovative solutions for Minecraft servers and Discord communities. I specialize in building Minecraft plugins, custom servers, and Discord bots. I'm the founder of a Minecraft development studio that creates custom plugins and server solutions.
 
+## 💫 Skills
+
+<div>
+  <p><strong>Java</strong> Expert</p>
+  <div style="background-color: #555; border-radius: 10px; height: 10px;">
+    <div style="background-color: #FFC107; width: 95%; height: 10px; border-radius: 10px;"></div>
+  </div>
+  
+  <p><strong>Python</strong> Expert</p>
+  <div style="background-color: #555; border-radius: 10px; height: 10px;">
+    <div style="background-color: #FFC107; width: 90%; height: 10px; border-radius: 10px;"></div>
+  </div>
+  
+  <p><strong>JavaScript</strong> Proficient</p>
+  <div style="background-color: #555; border-radius: 10px; height: 10px;">
+    <div style="background-color: #FFC107; width: 65%; height: 10px; border-radius: 10px;"></div>
+  </div>
+  
+  <p><strong>HTML/CSS</strong> Experienced</p>
+  <div style="background-color: #555; border-radius: 10px; height: 10px;">
+    <div style="background-color: #FFC107; width: 80%; height: 10px; border-radius: 10px;"></div>
+  </div>
+  
+  <p><strong>Node.js</strong> Experienced</p>
+  <div style="background-color: #555; border-radius: 10px; height: 10px;">
+    <div style="background-color: #FFC107; width: 80%; height: 10px; border-radius: 10px;"></div>
+  </div>
+  
+  <p><strong>API Development</strong> Experienced</p>
+  <div style="background-color: #555; border-radius: 10px; height: 10px;">
+    <div style="background-color: #FFC107; width: 80%; height: 10px; border-radius: 10px;"></div>
+  </div>
+</div>
+
 ## 💫 Tech Stack
 
 <div align="center">
