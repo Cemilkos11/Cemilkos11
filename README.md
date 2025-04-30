@@ -10,6 +10,14 @@ I'm a passionate developer who loves creating innovative solutions for Minecraft
 
 ## 💫 Tech Stack
 
+```text
+Java           ███████████████████░░   90%
+Python         ██████████████░░░░░░░   70%
+JavaScript     ████████████░░░░░░░░░   60%
+HTML/CSS       ███████████░░░░░░░░░░   55%
+Node.js        ████████░░░░░░░░░░░░░   40%
+```
+
 <div align="center">
   <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
